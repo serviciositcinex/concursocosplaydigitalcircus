@@ -12,7 +12,7 @@
             padding: 0;
             background-color: #f4f4f9;
             background-image: url("assets/images/fondo.png");
-            background-size: 1600px 750px;
+            background-size: cover;
             background-repeat: no-repeat;    
             background-position: 30%; 
             background-attachment: fixed;

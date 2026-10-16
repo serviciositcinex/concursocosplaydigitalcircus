@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\premios.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:premios.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\registro_exitoso.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:registro_exitoso.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\index.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "terminos.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\terminos.php",
               "RelativeDocumentMoniker": "terminos.php",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "terminos.php",
               "ViewState": "AgIAAL0AAAAAAAAAAAAAAL0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-10-14T20:47:09.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T20:47:09.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "registro_exitoso.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\registro_exitoso.php",
               "RelativeDocumentMoniker": "registro_exitoso.php",
@@ -63,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "procesar.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\procesar.php",
               "RelativeDocumentMoniker": "procesar.php",
@@ -75,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "premios.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\premios.php",
               "RelativeDocumentMoniker": "premios.php",
@@ -83,24 +82,24 @@
               "RelativeToolTip": "premios.php",
               "ViewState": "AgIAAP8AAAAAAAAAAAAAAAQBAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-10-14T18:45:19.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-14T18:45:19.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "index.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\index.php",
               "RelativeDocumentMoniker": "index.php",
               "ToolTip": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\index.php",
               "RelativeToolTip": "index.php",
-              "ViewState": "AgIAAG0AAAAAAAAAAAAlwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
-              "WhenOpened": "2026-10-14T18:45:12.381Z"
+              "WhenOpened": "2026-10-14T18:45:12.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "admin_cards.php",
               "DocumentMoniker": "C:\\xampp\\htdocs\\concursocosplaydigitalcircus\\admin\\admin_cards.php",
               "RelativeDocumentMoniker": "admin\\admin_cards.php",

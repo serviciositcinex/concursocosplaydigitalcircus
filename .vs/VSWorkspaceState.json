@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\admin",
+    "\\admin\\css",
     "\\assets",
     "\\assets\\images"
   ],
+  "SelectedNode": "\\admin\\css\\styles.css",
   "PreviewInSolutionExplorer": false
 }
